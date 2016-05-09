@@ -9,7 +9,7 @@ List of opensource projects looking for help
 ### CMS
 
 * [blackbox](https://github.com/ninedraft/blackbox) - a KISSed blog engine
-
+* [go-starter-kit](https://github.com/olebedev/go-starter-kit) - Golang isomorphic react/hot reloadable/redux/css-modules starter kit
 ### GUI, Widgets
 
 * [go-wde](https://github.com/kirillDanshin/go-wde) - (W)indows, (d)rawing and (e)vents for Go. Fork of [go.wde](https://github.com/skelterjohn/go.wde)
