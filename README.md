@@ -4,6 +4,7 @@ List of opensource projects looking for help
 # Contents
   - [CMS, blog engines, etc](#cms)
   - [GUI && Widgets packages and toolchains](#gui-widgets)
+  - [Telegram bots](#telegram-bots)
 
 
 ### CMS
@@ -15,4 +16,7 @@ List of opensource projects looking for help
 ### GUI, Widgets
 
 * [go-wde](https://github.com/kirillDanshin/go-wde) - (W)indows, (d)rawing and (e)vents for Go. Fork of [go.wde](https://github.com/skelterjohn/go.wde)
-* [go.uik](https://github.com/kirillDanshin/go.uik) - A concurrent UI kit written in pure go.
+* [go.uik](https://github.com/kirillDanshin/go.uik) - A concurrent UI kit written in pure go. Fork of [go.uik](https://github.com/skelterjohn/go.uik)
+
+### Telegram bots
+* [nagtlg](https://github.com/diphost/nagtlg/) - Telegram bot for Nagios and Livestatus 
