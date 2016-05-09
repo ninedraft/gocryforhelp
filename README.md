@@ -3,7 +3,7 @@ List of opensource projects looking for help
 
 # Contents
   - [CMS, blog engines, etc](#cms)
-  - [GUI && Widgets packages and toolchains](#gui)
+  - [GUI && Widgets packages and toolchains](#gui-widgets)
 
 
 ## CMS
