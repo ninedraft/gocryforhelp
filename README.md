@@ -1,6 +1,8 @@
 # gocryforhelp
 List of opensource projects looking for help
 
+![](https://raw.githubusercontent.com/ninedraft/gocryforhelp/master/GCFH.png)
+
 # Contents
   - [CMS, blog engines, etc](#cms)
   - [GUI && Widgets packages and toolchains](#gui-widgets)
