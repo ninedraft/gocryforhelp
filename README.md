@@ -6,7 +6,7 @@ List of opensource projects looking for help
 # Contents
   - [CMS, blog engines, etc](#cms)
   - [GUI && Widgets packages and toolchains](#gui-widgets)
-  - [Telegram bots](#telegram-bots)
+  - [Telegram bots && API](#telegram-bots)
 
 
 ### CMS
@@ -22,3 +22,4 @@ List of opensource projects looking for help
 
 ### Telegram bots
 * [nagtlg](https://github.com/diphost/nagtlg/) - Telegram bot for Nagios and Livestatus 
+* [bot-api/telegram](https://github.com/bot-api/telegram/) - Implementation of the telegram bot API with net/context and middlewares 
