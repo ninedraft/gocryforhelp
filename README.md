@@ -22,4 +22,5 @@ List of opensource projects looking for help
 
 ### Telegram bots
 * [nagtlg](https://github.com/diphost/nagtlg/) - Telegram bot for Nagios and Livestatus 
-* [bot-api/telegram](https://github.com/bot-api/telegram/) - Implementation of the telegram bot API with net/context and middlewares 
+* [bot-api/telegram](https://github.com/bot-api/telegram/) - Implementation of the telegram bot API with net/context and middlewares
+* [HentaiDB](https://github.com/HentaiDB/) - Telegram bot for searching content in popular repositories and tools for his work
