@@ -28,7 +28,7 @@ List of opensource projects looking for help
 * [HentaiDB](https://github.com/HentaiDB/) - Telegram bot for searching content in popular repositories and tools for his work
 
 ### Web frameworks
-* [gramework](https://github.com/gramework/gramework) - - One of the fastest framework written in Go, while respecting the licenses. Bringing convenient, useful high performance battle-tested solutions to opensource. ([telegram chat](https://t.me/gramework))
+* [gramework](https://github.com/gramework/gramework) - One of the fastest framework written in Go, while respecting the licenses. Bringing convenient, useful high performance battle-tested solutions to opensource. ([telegram chat](https://t.me/gramework))
 
 ### Programming languages
 * [Goodlang](https://github.com/goodlang/good) - Golang fork ([telegram chat](https://telegram.me/goodlang))
